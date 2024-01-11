@@ -1,5 +1,5 @@
 package 创建型模式.单例模式;
-//懒汉式实现单例模式。
+//懒汉式实现单例模式
 public class Single2 {
     private Single2(){}
     //volatile防止指令重排
